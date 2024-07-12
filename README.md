@@ -26,8 +26,8 @@ classes, teachers, and courses. This system operates exclusively at the administ
 ensuring that only authorized administrators have access. The project aims to create an 
 application program that automates and minimizes manual efforts in managing schools, 
 students, registrations, and classes. It encompasses tracking information related to classes, 
-teachers, students, results, and attendance.
-The specific objectives of the School Management System include:
+teachers, students, results, and attendance.<br>
+The specific objectives of the School Management System include:<br>
 • Revenue Management<br>
 • Admission Management<br>
 • Reducing Communication Gap<br>
