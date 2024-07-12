@@ -1,4 +1,4 @@
-# School_Management_System
+<h1 align="center">School_Management_System</h1>
 This software is a desktop application compatible with various Windows platforms such as XP, 
 2007, 2008, and 2010. Its primary purpose is to streamline administrative tasks within schools, 
 particularly in managing student and teacher records stored in databases.
@@ -16,23 +16,24 @@ The "School Management System" facilitates various tasks such as student admissi
 recruitment, attendance tracking for both students and teachers, fee management, updating 
 student and teacher information, recording student marks, and checking student results.
 
-## Technology Using:-
-
-
-
-## Entity Relationship Diagram:-
+<h2>Technology Using:-</h2>
+<h3>Language:-</h3>
+Java, MySQL
+<h3> Language Method:-</h3>
+Swing
+<h2>Entity Relationship Diagram:-</h2>
 
 ![image](https://github.com/user-attachments/assets/67a4a180-aa21-4987-b87d-227341f4a4e7)
 
-## Flow Chart:-
+<h2>Flow Chart:-</h2>
 
 ![image](https://github.com/user-attachments/assets/2c567fcb-cc05-4c2c-88b6-542eeba710ac)
 
-## Some Data Dictionary:-
+<h2>Some Data Dictionary:-</h2>
 
 ![image](https://github.com/user-attachments/assets/00068141-33f8-4d3f-bb73-c647d006a5b5)
 
-## Project Visual's:-
+<h2>Project Visual's:-</h2>
 
 ![image](https://github.com/user-attachments/assets/5872f0fd-5fe5-40c5-94ce-94ebf79fddb5)
 
@@ -44,5 +45,19 @@ student and teacher information, recording student marks, and checking student r
 
 ![image](https://github.com/user-attachments/assets/01843fdd-1f78-42c6-81f9-f2117591aaba)
 
+<h2>Future Scope</h2>
 
+1. Online Transition: We plan to transition the project into an online school system, 
+expanding its accessibility and reach.
+2. A forthcoming feature will include the integration of a 
+module dedicated to generating student results, enhancing the system's functionality.
+3. Over time, an additional module will be introduced to 
+facilitate online class conduct within the existing system. This allows teachers to 
+efficiently conduct online classes through the platform.
+4. Our team is committed to developing a multi-user login system, 
+enabling individualized accounts for teachers and students. This enhances user 
+management and personalization within the system.
+5. An upcoming addition involves the incorporation of a library module 
+into the existing system. This module will be managed by a designated librarian, who 
+will oversee all aspects related to the library's information and resources.
 
