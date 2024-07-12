@@ -7,9 +7,9 @@ information using traditional file systems. With this application, school admini
 efficiently handle a wide range of activities, making the process more manageable compared to 
 manual record-keeping.
 Designed to cater to schools like "GYAN NIKETAN PUBLIC SCHOOL" in New Delhi, which 
-accommodates over 10,000 students, around 50 teachers, and numerous administrative staffs, 
+accommodates over 10,000 students, around 50 teachers, and numerous administrative staff's, 
 the software significantly simplifies the critical task of record management.
-Utilizing Java Swing for the frontend and MySQL for the backend, the system ensures both 
+Utilizing Java Swing for the front end and MySQL for the back end, the system ensures both 
 security and ease of use. Java Swing is known for its robustness and simplicity, while MySQL 
 provides a powerful platform for managing databases.
 The "School Management System" facilitates various tasks such as student admissions, teacher 
@@ -27,4 +27,18 @@ student and teacher information, recording student marks, and checking student r
 
 ## Some Data Dictionary
 
-![image](https://github.com/user-attachments/assets/31eebd8b-babc-4b05-8fed-e160159afd8e)
+![image](https://github.com/user-attachments/assets/00068141-33f8-4d3f-bb73-c647d006a5b5)
+
+## Project Visual's
+
+![image](https://github.com/user-attachments/assets/5872f0fd-5fe5-40c5-94ce-94ebf79fddb5)
+
+![image](https://github.com/user-attachments/assets/1c0d5e94-5662-4986-8c78-c0457547b6da)
+
+![image](https://github.com/user-attachments/assets/36d023bc-646a-42f8-aeb1-61ac68715f66)
+
+![image](https://github.com/user-attachments/assets/9953c8e1-8918-4f46-96f6-7899a2389728)
+
+![image](https://github.com/user-attachments/assets/cc021766-6004-416e-8142-ffa3a822b19d)
+
+
