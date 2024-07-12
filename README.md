@@ -28,13 +28,13 @@ application program that automates and minimizes manual efforts in managing scho
 students, registrations, and classes. It encompasses tracking information related to classes, 
 teachers, students, results, and attendance.
 The specific objectives of the School Management System include:
-• Revenue Management
-• Admission Management
-• Reducing Communication Gap
-• Student Performance Monitoring
-• Organizing and Simplifying Everyday Tasks.
-• Centralized Data and Easy Access
-• Time Table and Attendance Management
+• Revenue Management<br>
+• Admission Management<br>
+• Reducing Communication Gap<br>
+• Student Performance Monitoring<br>
+• Organizing and Simplifying Everyday Tasks<br>
+• Centralized Data and Easy Access<br>
+• Time Table and Attendance Management<br>
 
 
 
