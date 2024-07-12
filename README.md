@@ -15,3 +15,8 @@ provides a powerful platform for managing databases.
 The "School Management System" facilitates various tasks such as student admissions, teacher 
 recruitment, attendance tracking for both students and teachers, fee management, updating 
 student and teacher information, recording student marks, and checking student results.
+
+
+## Entity Relationship Diagram
+
+![image](https://github.com/user-attachments/assets/67a4a180-aa21-4987-b87d-227341f4a4e7)
