@@ -16,20 +16,23 @@ The "School Management System" facilitates various tasks such as student admissi
 recruitment, attendance tracking for both students and teachers, fee management, updating 
 student and teacher information, recording student marks, and checking student results.
 
+## Technology Using:-
 
-## Entity Relationship Diagram
+
+
+## Entity Relationship Diagram:-
 
 ![image](https://github.com/user-attachments/assets/67a4a180-aa21-4987-b87d-227341f4a4e7)
 
-## Flow Chart
+## Flow Chart:-
 
 ![image](https://github.com/user-attachments/assets/2c567fcb-cc05-4c2c-88b6-542eeba710ac)
 
-## Some Data Dictionary
+## Some Data Dictionary:-
 
 ![image](https://github.com/user-attachments/assets/00068141-33f8-4d3f-bb73-c647d006a5b5)
 
-## Project Visual's
+## Project Visual's:-
 
 ![image](https://github.com/user-attachments/assets/5872f0fd-5fe5-40c5-94ce-94ebf79fddb5)
 
