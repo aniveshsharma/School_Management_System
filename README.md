@@ -18,6 +18,26 @@ The "School Management System" facilitates various tasks such as student admissi
 recruitment, attendance tracking for both students and teachers, fee management, updating 
 student and teacher information, recording student marks, and checking student results.
 
+<h2>Objective:-</h2>
+
+The primary goal of implementing a School Management System is to effectively oversee 
+various aspects of the educational institution, including details about schools, students, 
+classes, teachers, and courses. This system operates exclusively at the administrative level, 
+ensuring that only authorized administrators have access. The project aims to create an 
+application program that automates and minimizes manual efforts in managing schools, 
+students, registrations, and classes. It encompasses tracking information related to classes, 
+teachers, students, results, and attendance.
+The specific objectives of the School Management System include:
+• Revenue Management
+• Admission Management
+• Reducing Communication Gap
+• Student Performance Monitoring
+• Organizing and Simplifying Everyday Tasks.
+• Centralized Data and Easy Access
+• Time Table and Attendance Management
+
+
+
 <h2>Technology Using:-</h2>
 <h3>Language:-</h3>
 Java, MySQL
