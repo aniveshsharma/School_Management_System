@@ -1,4 +1,6 @@
 <h1 align="center">School_Management_System</h1>
+
+<h2>Introduction:-</h2>
 This software is a desktop application compatible with various Windows platforms such as XP, 
 2007, 2008, and 2010. Its primary purpose is to streamline administrative tasks within schools, 
 particularly in managing student and teacher records stored in databases.
