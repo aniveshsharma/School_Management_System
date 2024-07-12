@@ -1,4 +1,4 @@
-<h1 align="center">School_Management_System</h1>
+<h1 align="center">School Management System</h1>
 
 <h2>Introduction:-</h2>
 This software is a desktop application compatible with various Windows platforms such as XP, 
