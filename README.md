@@ -39,6 +39,7 @@ student and teacher information, recording student marks, and checking student r
 
 ![image](https://github.com/user-attachments/assets/9953c8e1-8918-4f46-96f6-7899a2389728)
 
-![image](https://github.com/user-attachments/assets/cc021766-6004-416e-8142-ffa3a822b19d)
+![image](https://github.com/user-attachments/assets/01843fdd-1f78-42c6-81f9-f2117591aaba)
+
 
 
