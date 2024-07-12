@@ -20,3 +20,11 @@ student and teacher information, recording student marks, and checking student r
 ## Entity Relationship Diagram
 
 ![image](https://github.com/user-attachments/assets/67a4a180-aa21-4987-b87d-227341f4a4e7)
+
+## Flow Chart
+
+![image](https://github.com/user-attachments/assets/2c567fcb-cc05-4c2c-88b6-542eeba710ac)
+
+## Some Data Dictionary
+
+![image](https://github.com/user-attachments/assets/31eebd8b-babc-4b05-8fed-e160159afd8e)
